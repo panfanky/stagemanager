@@ -12,14 +12,6 @@ The main editor php script is located in:
 
 ![screenshot](screenshot.jpg)
 
-Demo administration at http://wptimeline.fanky.eu/wp-admin/
-
-**username**: wptimeline
-
-**password**: (link to my linkedin profile without https://)
-
-Live output on timeline: https://www.prahazijehudbou.cz/program/
-
 
 Jakub Jelinek
 
